@@ -2,6 +2,8 @@
 *.replay
 *__pycache__*
 
+lib/*
+
 algos/*
 !algos/starter-algo-ZIPME
 
